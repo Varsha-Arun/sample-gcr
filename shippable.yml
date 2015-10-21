@@ -15,3 +15,5 @@ install:
 script:
   - true
   
+archive: true
+  
