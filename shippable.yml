@@ -23,5 +23,5 @@ cache: true
   
 archive: true
 
-reset_minion
+#reset_minion
   
