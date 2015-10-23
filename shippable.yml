@@ -23,5 +23,5 @@ cache: true
   
 archive: true
 
-commit: reset_minion
+#commit: reset_minion
   
